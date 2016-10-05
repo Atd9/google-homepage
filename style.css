@@ -1,0 +1,90 @@
+html {
+	font-family: ariel, sans-serif;
+	font-size: small;
+	text-decoration: none;
+}
+
+.navbar {
+	float: right;
+	padding: 4px;
+	display: inline-block;
+	line-height: 24px;
+	color: #000;
+	font-size: 13px;
+	text-decoration: none;
+}
+
+.bar {
+	width:475px; 
+	height:30px;
+	display: block;
+	margin-left: auto;
+	margin-right:  auto;	
+
+}
+
+.button {
+	margin-right: 4px;
+	margin-left: 4px;
+	margin-bottom: 11px;
+	margin-top: 11px;
+	padding-right: 16px;
+	padding-left: 16px;
+	width: 150px;
+    height: 30px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    color: #757575;
+    outline: none;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.main {
+	display: block;
+	text-align: center;
+	padding-left: 27px;
+	margin: 0 !important;
+}
+
+
+
+.right{
+	display: inline-block;
+	color: #666;
+	float: right;
+	padding-left: 27px;
+	white-space: nowrap;
+	text-decoration: none;
+}
+.left{
+	display: inline-block;
+	color: #666;
+	padding-right: 27px;
+	white-space: nowrap;
+	text-decoration: none;
+}
+
+.footer {
+position: absolute;
+right: 40;
+left: 40;
+bottom: 25;
+}
+
+.logo {
+	display: block;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+	padding-top: 10%;
+}
+
+.sign{
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	background: #4285f4;
+	background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+}
+
+
